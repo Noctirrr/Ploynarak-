@@ -1,0 +1,7 @@
+{
+  "name": "For My Favorite Person",
+  "description": "An elegant, heartfelt romantic message page crafted with warmth, soothing glassmorphism, and gentle care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
